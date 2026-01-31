@@ -5,7 +5,9 @@ A/B testing helps in finding a better approach to finding customers, marketing p
 Below are all the features in the dataset:
 
 Campaign Name: The name of the campaign
+
 Date: Date of the record
+
 Spend: Amount spent on the campaign in dollars
 of Impressions: Number of impressions the ad crossed through the campaign
 Reach: The number of unique impressions received in the ad
