@@ -1,4 +1,5 @@
 About Dataset
+
 A/B testing helps in finding a better approach to finding customers, marketing products, getting a higher reach, or anything that helps a business convert most of its target customers into actual customers.
 
 Below are all the features in the dataset:
@@ -13,7 +14,9 @@ of Searches: Number of users who performed searches on the website
 of View Content: Number of users who viewed content and products on the website
 of Add to Cart: Number of users who added products to the cart
 of Purchase: Number of purchases
+
 Two campaigns were performed by the company:
 
 Control Campaign
+
 Test Campaign
